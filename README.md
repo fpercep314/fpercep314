@@ -18,23 +18,6 @@ Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS
 
 **Bases de datos:** `My SQL` `MariaDB` `Redis`
 
-## Proyectos destacados
-
-### Notes
-[Descripción breve: qué hace, qué problema resuelve, qué tecnologías usa]
-
-**Enlace:** [Enlace al repo o demo]
-
-### Eris
-[Descripción breve]
-
-**Enlace:** [Enlace al repo o demo]
-
-## Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fpercep314&show_icons=true&theme=default)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fpercep314&layout=compact)
-
 ## Conecta conmigo
 
 **LinkedIn:** [Francisco Pérez](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/)
