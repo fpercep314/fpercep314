@@ -1,6 +1,6 @@
 # Hola, soy Francisco
 
-Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS |
+Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS
 
 ## Sobre mí
 
@@ -22,10 +22,12 @@ Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS |
 
 ### Notes
 [Descripción breve: qué hace, qué problema resuelve, qué tecnologías usa]
+
 **Enlace:** [Enlace al repo o demo]
 
 ### Eris
 [Descripción breve]
+
 **Enlace:** [Enlace al repo o demo]
 
 ## Estadísticas
@@ -35,7 +37,7 @@ Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS |
 
 ## Conecta conmigo
 
-**LinkedIn:** [TU_USUARIO](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/)
+**LinkedIn:** [Francisco Pérez](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/)
 **Email:** [francisco.cepero.dev@gmail.com](mailto:francisco.cepero.dev@gmail.com)
 **Portfolio:** [TU_WEB](#)
 
