@@ -2,11 +2,7 @@
 
 Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS
 
-## Sobre mí
-
-- **Actualmente:** Estoy en busca de empleo.
-- **Ahora mismo estoy aprendiendo:** Java/Springboot
-- **Contacto:** [Gmail](mailto:francisco.cepero.dev@gmail.com) / [Linkedln](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/) / [Mi Web](#)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Stack tecnológico
 
@@ -20,8 +16,8 @@ Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS
 
 ## Conecta conmigo
 
-**LinkedIn:** [Francisco Pérez](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/)
-**Email:** [francisco.cepero.dev@gmail.com](mailto:francisco.cepero.dev@gmail.com)
-**Portfolio:** [TU_WEB](#)
+**LinkedIn:** [Francisco Pérez](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/) |
+**Email:** [francisco.cepero.dev@gmail.com](mailto:francisco.cepero.dev@gmail.com) |
+**Portfolio:** [fran.dev](#)
 
 ---
