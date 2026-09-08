@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hola, soy Francisco
 
-<!--
-**fpercep314/fpercep314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS |
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Actualmente:** Estoy en busca de empleo.
+- **Ahora mismo estoy aprendiendo:** Java/Springboot
+- **Contacto:** [Gmail](mailto:francisco.cepero.dev@gmail.com) / [Linkedln](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/) / [Mi Web](#)
+
+## Stack tecnológico
+
+**Lenguajes:** `Java` `PHP` `JavaScript`
+
+**Frameworks / Librerías:** `Laravel` `SpringBoot`
+
+**Herramientas:** `Claude Code` `Visual Studio` `Git` `Docker`
+
+**Bases de datos:** `My SQL` `MariaDB` `Redis`
+
+## Proyectos destacados
+
+### Notes
+[Descripción breve: qué hace, qué problema resuelve, qué tecnologías usa]
+**Enlace:** [Enlace al repo o demo]
+
+### Eris
+[Descripción breve]
+**Enlace:** [Enlace al repo o demo]
+
+## Estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fpercep314&show_icons=true&theme=default)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fpercep314&layout=compact)
+
+## Conecta conmigo
+
+**LinkedIn:** [TU_USUARIO](https://www.linkedin.com/in/francisco-p%C3%A9rez-5a4956302/)
+**Email:** [francisco.cepero.dev@gmail.com](mailto:francisco.cepero.dev@gmail.com)
+**Portfolio:** [TU_WEB](#)
+
+---
