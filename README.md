@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 **Frameworks / Librerías:** `Laravel` `SpringBoot`
 
-**Herramientas:** `Claude Code` `Visual Studio` `Git` `Docker`
+**Herramientas:** `Claude Code` `Visual Studio` `IntelliJ`  `Git` `Docker`
 
 **Bases de datos:** `My SQL` `MariaDB` `Redis`
 
