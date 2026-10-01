@@ -8,11 +8,11 @@ Titulado en DAW, con experiencia profesional en desarrollo web. Lo que más me i
 
 **Lenguajes:** `Java` `PHP` `JavaScript`
 
-**Frameworks / Librerías:** `Laravel` `SpringBoot` `React` `TypeScript`
+**Frameworks / Librerías:** `Laravel` `Spring Boot` `React` `TypeScript`
 
 **Herramientas:** `Claude Code` `Visual Studio` `IntelliJ`  `Git` `Docker`
 
-**Bases de datos:** `My SQL` `MariaDB` `Redis`
+**Bases de datos:** `MySQL` `MariaDB` `Redis`
 
 ## Conecta conmigo
 
