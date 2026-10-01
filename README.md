@@ -2,13 +2,13 @@
 
 Desarrollador Full-Stack Junior | PHP/Laravel + Java + JS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Titulado en DAW, con experiencia profesional en desarrollo web. Lo que más me interesa es el backend, es donde más disfruto investigando y probando tecnologías nuevas. Ahora mismo estoy ampliando hacia Spring Boot, React y TypeScript.
 
 ## Stack tecnológico
 
 **Lenguajes:** `Java` `PHP` `JavaScript`
 
-**Frameworks / Librerías:** `Laravel` `SpringBoot`
+**Frameworks / Librerías:** `Laravel` `SpringBoot` `React` `TypeScript`
 
 **Herramientas:** `Claude Code` `Visual Studio` `IntelliJ`  `Git` `Docker`
 
